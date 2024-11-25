@@ -1,0 +1,7 @@
+/* styling for 4-index.html body */
+body{
+	margin:0px; padding:0px; color:#484848;
+}
+.container{
+	margin:30px auto; max-width:1000px;
+}
